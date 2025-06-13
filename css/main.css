@@ -162,7 +162,6 @@ button:active {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  min-width: 15rem;
   gap: 0.5rem;
 }
 
