@@ -30,7 +30,8 @@ h1 {
 }
 
 h2 {
-  font-size: 3rem;
+  margin: 3rem;
+  font-size: 14rem;
   font-weight: 400;
 }
 
@@ -93,7 +94,7 @@ main {
 
 
 .required-text {
-  font-size: 0.8rem;
+  font-size: 1rem;
   cursor: default;
   opacity: 0.7;
   margin: 0 0.3rem;
@@ -198,10 +199,10 @@ a .circle:hover{
 
 .form-group input, .form-group textarea {
   background-color: white;
-  font-family: "Roboto", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-size: 1.2rem;
+  font-size: 2rem;
   color: white;
   color: black;
   padding: 12px;
